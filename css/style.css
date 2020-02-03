@@ -1,0 +1,10 @@
+canvas{
+    width:700px;
+    height:700px;
+    background-color:#c3c3c3;
+}
+
+h1{ 
+    font-family:helvetica;
+    font-size:80px;
+}
